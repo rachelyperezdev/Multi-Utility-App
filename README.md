@@ -35,7 +35,7 @@ To run this app on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/multi-utility-app.git](https://github.com/rachelyperezdev/Multi-Utility-App.git)
+   git clone https://github.com/rachelyperezdev/Multi-Utility-App.git
 
 2. **Navigate to the project directory**:
    ```bash
